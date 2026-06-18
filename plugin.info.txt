@@ -3,5 +3,5 @@ author Klaus Keusch
 email  dev@klauskeusch.de
 date   2026-06-18
 name   AutoColor Plugin
-desc   Färbt konfigurierte Schlüsselwörter automatisch ein. Liest die Schlüsselwörter sowie deren Farbe aus einer Tabelle auf einer benutzerdefinierten Wiki-Seite aus.
+desc   The AutoColor plugin for DokuWiki automatically highlights and colors predefined keywords across your wiki pages. Instead of relying on a clunky admin interface, it uses a standard DokuWiki table as its central configuration source.
 url    https://www.dokuwiki.org/plugin:autocolor
