@@ -14,12 +14,15 @@ The **AutoColor** plugin for DokuWiki automatically highlights and colors predef
 ## 📦 Installation
 
 ### Option 1: Via Extension Manager (Recommended)
-
-### Option 2: Manual installation
 1. Download the latest release as a `.zip` file from this repository.
 2. Log into your DokuWiki and navigate to **Admin -> Extension Manager**.
 3. Go to the **Manual Install** tab.
 4. Upload the `.zip` file and click "Install".
+
+### Option 2: Manual Installation
+1. Clone this repository or extract the downloaded `.zip` file.
+2. Ensure the extracted folder is named exactly `autocolor`.
+3. Move the folder into the `lib/plugins/` directory of your DokuWiki installation.
 
 ## 🛠️ Usage & Configuration
 
