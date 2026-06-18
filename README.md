@@ -2,6 +2,8 @@
 
 The **AutoColor** plugin for DokuWiki automatically highlights and colors predefined keywords across your wiki pages. Instead of relying on a clunky admin interface, it uses a standard DokuWiki table as its central configuration source.
 
+![Vorschau des AutoColor Plugins: Konfigurationsseite](dokuwiki-plugin-autocolor-screenshot.png)
+
 ## ✨ Features
 
 * **Wiki-Based Configuration:** Manage all your keywords, acronyms, and colors intuitively via a simple wiki table.
